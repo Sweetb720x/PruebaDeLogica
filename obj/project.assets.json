@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jarol\\source\\repos\\Prueba\\Prueba\\Prueba.csproj",
+      "projectUniqueName": "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\Prueba.csproj",
       "projectName": "Prueba",
-      "projectPath": "C:\\Users\\jarol\\source\\repos\\Prueba\\Prueba\\Prueba.csproj",
+      "projectPath": "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\Prueba.csproj",
       "packagesPath": "C:\\Users\\jarol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jarol\\source\\repos\\Prueba\\Prueba\\obj\\",
+      "outputPath": "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jarol\\AppData\\Roaming\\NuGet\\NuGet.Config",
