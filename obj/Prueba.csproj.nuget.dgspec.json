@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\Prueba.csproj": {}
+    "C:\\Users\\jarol\\Desktop\\Git\\Oye\\PruebaDeLogica\\Prueba.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\Prueba.csproj": {
+    "C:\\Users\\jarol\\Desktop\\Git\\Oye\\PruebaDeLogica\\Prueba.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\Prueba.csproj",
+        "projectUniqueName": "C:\\Users\\jarol\\Desktop\\Git\\Oye\\PruebaDeLogica\\Prueba.csproj",
         "projectName": "Prueba",
-        "projectPath": "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\Prueba.csproj",
+        "projectPath": "C:\\Users\\jarol\\Desktop\\Git\\Oye\\PruebaDeLogica\\Prueba.csproj",
         "packagesPath": "C:\\Users\\jarol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jarol\\Desktop\\Git\\Ultima\\PruebaDeLogica\\obj\\",
+        "outputPath": "C:\\Users\\jarol\\Desktop\\Git\\Oye\\PruebaDeLogica\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jarol\\AppData\\Roaming\\NuGet\\NuGet.Config",
